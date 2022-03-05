@@ -1,0 +1,13 @@
+.form-block{
+    margin: 2%;
+    box-shadow: 10px 10px 5px grey;
+    border: 1px solid black;
+    padding:1%;
+}
+.form-title-block{
+    text-align: center;
+}
+.form-submit-button{
+    text-align: center;
+    margin-top: 20px;
+}

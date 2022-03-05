@@ -1,0 +1,70 @@
+{
+  "bookings": [
+    {
+      "id": "rashida@gmail.com452022-02-162022-02-11",
+      "email": "rashida@gmail.com",
+      "name": "Rashida",
+      "numberOfPeople": 4,
+      "fromDate": "2022-02-11",
+      "toDate": "2022-02-16",
+      "noOfDays": 5,
+      "amount": 40000,
+      "status": "In Progress"
+    },
+    {
+      "id": "balli@gmail.com3142022-02-262022-02-12",
+      "email": "balli@gmail.com",
+      "name": "Balli",
+      "numberOfPeople": 3,
+      "fromDate": "2022-02-12",
+      "toDate": "2022-02-26",
+      "noOfDays": 14,
+      "amount": 84000,
+      "status": "In Progress"
+    },
+    {
+      "id": "salil@gmail.com622022-02-072022-02-05",
+      "email": "salil@gmail.com",
+      "name": "Salil",
+      "numberOfPeople": 6,
+      "fromDate": "2022-02-05",
+      "toDate": "2022-02-07",
+      "noOfDays": 2,
+      "amount": 24000,
+      "status": "Accepted"
+    },
+    {
+      "id": "devanshu@gmail.com242022-02-082022-02-04",
+      "email": "devanshu@gmail.com",
+      "name": "Devanshu",
+      "numberOfPeople": 2,
+      "fromDate": "2022-02-04",
+      "toDate": "2022-02-08",
+      "noOfDays": 4,
+      "amount": 16000,
+      "status": "In Progress"
+    },
+    {
+      "id": "Ayan@gmail.com752022-02-092022-02-04",
+      "email": "Ayan@gmail.com",
+      "name": "Ayan",
+      "numberOfPeople": 7,
+      "fromDate": "2022-02-04",
+      "toDate": "2022-02-09",
+      "noOfDays": 5,
+      "amount": 70000,
+      "status": "In Progress"
+    },
+    {
+      "id": "asad@gmail.com312022-02-052022-02-04",
+      "email": "asad@gmail.com",
+      "name": "Asad",
+      "numberOfPeople": 3,
+      "fromDate": "2022-02-04",
+      "toDate": "2022-02-05",
+      "noOfDays": 1,
+      "amount": 6000,
+      "status": "Accepted"
+    }
+  ]
+}
